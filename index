@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<header>
+    <h1>"feria de ciencias"</h1>
+<p>hola soy daniel vocos y voy a contar mi experiencia en la feria de ciencias</p>
+<nav><ul>
+<li><a href="#estante1">estante1</a></li>
+<li><a href="#estante2">estante2</a></li>
+<li><a href="#estante3">estante3</a></li>
+<li><a href="#estante4">estante4</a></li>
+</ul></nav>
+</header>
+<body>
+    <main>
+<section id="feria de ciencias">
+<h2>feria de ciencias</h2>
+<figure>
+   <img src="images (3).jpg" alt="feria de ciencias">
+<figcaption>estante3</figcaption>
+</figure>
+<p>el estante 1 era una moto que mostraba una grafica y cuando la moto pasaba por encima de un hueco y se mueve ese grafico y lo mustra todo</p>
+
+</section>
+        <section id="feria de ciencia">
+<h2>feria de ciencias</h2>
+<figure>
+   <img src="images (3).jpg" alt="feria de ciencias">
+<figcaption>estante2</figcaption>
+</figure>
+<p>el estante 2 era de huesos de animales pero no los podiamos tocar pero me gusto bastante</p>
+</section>
+  <section id="feria de ciencia">
+<h2>feria de ciencias</h2>
+<figure>
+   <img src="images (3).jpg" alt="feria de ciencias">
+<figcaption>estante4</figcaption>
+</figure>
+<p>el estante 4 habia un colectivo gamer donde adrentro habian compus gamer y plays 4, yo jugue al fifa con el thomi y empatamos 1_1</p>      
+
+</section>
+        
